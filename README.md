@@ -12,6 +12,9 @@
 https://aeethon.github.io/devfinances/index.html
 ```
 
+![example](https://imgur.com/q0UnjrH.png)
+
+
 <hr>
 
 
