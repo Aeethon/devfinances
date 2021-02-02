@@ -103,7 +103,10 @@ button:hover {
 
 /* Header ===================== */
 header {
-    background: #3B4252;
+
+     background-image: linear-gradient(#25496D  , #18214B
+     );
+
     padding: 2rem 0 10rem;
     text-align: center;
 }
@@ -151,21 +154,22 @@ header {
 
 
 .card.total {
-    background: #2E3440;
+    background-image: linear-gradient(to bottom right, #335271, #14273A);
     color: white; 
     box-shadow: 3px 5px 50px #2E3440;
 }
 
 .card.total {
     color: white;
-    background: #2E3440;
+    background-image: linear-gradient(to bottom right, #335271, #14273A);
+
     transition: transform 0.7s;
     transform: translateX(15) scale(0.5);
   }
   
   .card.total:hover,
   .card.total:focus {
-    background: #2E3440;
+    background-image: linear-gradient(to bottom right, #335271, #14273A);
     transform: translateX(20px) scale(1.3);
     
   }
